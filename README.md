@@ -1,2 +1,2 @@
 # lhcode
-this is nb code!
+这是我的代码!
